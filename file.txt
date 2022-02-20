@@ -1,0 +1,9 @@
+public class Main
+{
+public static void main(String args[])
+{
+System.out.println("Welcome to Intellipaat");
+}
+}
+Edition done by developer2 and saved
+Some text tried to edited by developer1 
